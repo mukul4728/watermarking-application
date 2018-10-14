@@ -22,5 +22,5 @@ Libraries Used :
 * [Picasso](http://square.github.io/picasso/)  To load Image in ImageView
 * [TedPicker](https://github.com/ParkSangGwon/TedPicker)   To upload multiple Images
 
-Any issues, flaws or corrections would be heartily accepted and implemented.
+Any issues, flaws or corrections would be heartily accepted & implemented.
 Please feel free to post issues or pull requests.
