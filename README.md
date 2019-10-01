@@ -1,7 +1,5 @@
 # watermarking-application
-
 ## clicks and watermarks images
-
 ### Min API level 15 : Android 4.0.3 (IceCreamSandwich)
 
 This is an android application that **clicks, watermarks and saves** multiple images.
